@@ -1,7 +1,8 @@
 {
   "scripts": {
     "test": "gulp test",
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "start": "node main.js"
   },
   "dependencies": {
     "async": "0.9.0",
