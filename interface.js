@@ -1,3 +1,4 @@
+
 /*
  *  Inserts "doc" into the collection "movies".
  */
